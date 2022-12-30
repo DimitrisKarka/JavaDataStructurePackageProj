@@ -6,3 +6,4 @@ Stack
 Queue
 LinkedList(singly)
 DoublyLinkedList
+PriorityQueue
